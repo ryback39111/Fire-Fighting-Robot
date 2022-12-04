@@ -9,7 +9,7 @@ We detect the direction of the fire we can use the motors to move near the fire 
 
 
 
-    Material Required:-
+  #  Material Required:-
 
     ->Arduino UNO
     ->Fire sensor or Flame sensor (3 Nos)
@@ -20,3 +20,7 @@ We detect the direction of the fire we can use the motors to move near the fire 
     ->Robot chassis with motors (2) and wheels(2) (any type)
     ->A small can
     ->Jumper wire Male-Female all types wires
+
+
+# circuit Diagram :
+![circuit diagram](https://user-images.githubusercontent.com/81157736/205472513-f21cb621-a077-4dd7-889f-6292f9e43693.jpg)
